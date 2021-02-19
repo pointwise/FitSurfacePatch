@@ -9,7 +9,7 @@ This script can only be run interactively.
 
 Select one or more shell database surfaces and one or more sets of connected bounding curves. The script will invoke the surface fitter mode which will create as many surfaces as possible, and fit them using the shell database entities as a point cloud. It is recommended to project or draw the bounding curves onto the shell database entities of interest. The script can be modified to run the surface fitting routine for as many iterations as desired.
 
-.. image:: https://raw.github.com/pointwise/FitSurfacePatch/master/FitSurfacePatchExample.PNG
+.. image:: https://raw.github.com/pointwise/FitSurfacePatch/master/FitSurfacePatchExample.png
 
 Disclaimer
 ~~~~~~~~~~
